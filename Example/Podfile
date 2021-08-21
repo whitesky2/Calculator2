@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Calculator_Tests' do
+  pod 'Calculator', :path => '../'
+  
+  
+end
